@@ -44,13 +44,15 @@ h2 {
 }
 
 a {
-  color: #0066cc;
+  color: #757474;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  text-shadow: black;
 }
+
 
 footer {
   text-align: center;
