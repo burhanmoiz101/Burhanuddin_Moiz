@@ -1,0 +1,36 @@
+[33mcommit e55a64ca78ed8cf5926d4cdf9d81b6387da906d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 90c4825 e725728
+Author: burhanmoiz101 <106883577+burhanmoiz101@users.noreply.github.com>
+Date:   Mon May 12 17:18:33 2025 +0530
+
+    Merge branch 'main' of github.com:burhanmoiz101/website
+
+[33mcommit 90c4825c9432770c15ad04169be0fcf057da1400[m
+Author: burhanmoiz101 <106883577+burhanmoiz101@users.noreply.github.com>
+Date:   Mon May 12 17:17:57 2025 +0530
+
+    styles.css
+
+[33mcommit 6d46035dcd6bede4e1cb135ccf3f6041d9a0b64f[m
+Author: burhanmoiz101 <106883577+burhanmoiz101@users.noreply.github.com>
+Date:   Mon May 12 17:14:31 2025 +0530
+
+    index.html
+
+[33mcommit e7257280124c67ff8705584df5d14fc5c13b90e5[m
+Author: burhanuddin moiz <106883577+burhanmoiz101@users.noreply.github.com>
+Date:   Mon May 12 16:53:09 2025 +0530
+
+    Create static.yml
+
+[33mcommit 17e09cfb11dfa6723177f7631705ee6e6add197f[m
+Author: burhanmoiz101 <106883577+burhanmoiz101@users.noreply.github.com>
+Date:   Mon May 12 16:46:46 2025 +0530
+
+    index.html
+
+[33mcommit 8f088fa94b243ba7095240fed6444d647d39236e[m
+Author: burhanuddin moiz <106883577+burhanmoiz101@users.noreply.github.com>
+Date:   Mon May 12 16:23:27 2025 +0530
+
+    Initial commit
